@@ -12,7 +12,7 @@ The notebook will guide the reader through the code needed for speech tagging, d
    [GitHub Desktop](https://desktop.github.com/)
 2. Open a terminal window and navigate to the project folder. Open the notebook HMM_tagger.ipynb and follow the instructions.
 
-__NOTE:__ Chances are part of the code may not run due to some missing packages. Please make sure to go through the notebook and retrieve all the necessary packages.
+__NOTE:__ Chances are part of the code may not run due to some missing packages. Please make sure to go through the notebook and retrieve all the necessary packages. The list can be found in requirements.txt.
 
 ## GitHub rendering Problems
 
